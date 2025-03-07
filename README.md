@@ -1,7 +1,8 @@
 # Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
-##NAME :GOPIKRISHNAN M
-##REGNO:212223043001
+
+## NAME :GOPIKRISHNAN M
+## REGNO:212223043001
 
 
 ## AIM:
