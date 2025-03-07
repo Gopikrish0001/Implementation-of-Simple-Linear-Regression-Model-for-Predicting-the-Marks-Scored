@@ -101,9 +101,13 @@ print("Root Mean Square Error = ",rmse)
 
 
 
-##TRAINING SET
+## TRAINING SET
+
+
 
 ![Screenshot 2025-03-07 091329](https://github.com/user-attachments/assets/ffcf44df-a9d9-4dd2-8fce-9773a0f3aadf)
+
+
 
 
 
