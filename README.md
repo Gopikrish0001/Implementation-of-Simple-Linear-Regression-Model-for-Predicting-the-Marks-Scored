@@ -74,10 +74,12 @@ print("Root Mean Square Error = ",rmse)
 
 ## Output:
 ##HEAD VALUE
+
 ![Screenshot 2025-03-07 091010](https://github.com/user-attachments/assets/f69822e7-2934-4533-adfa-058565d931f0)
 
 
 ##TAIL VALUE
+
 ![image](https://github.com/user-attachments/assets/eceafc6f-38e0-43f3-b6e4-ccd8f437cf6d)
 
 
@@ -85,16 +87,20 @@ print("Root Mean Square Error = ",rmse)
 ![image](https://github.com/user-attachments/assets/ee5dbe47-1c00-4e3c-be2b-8079708f6250)
 
 ##PERDICATION VALUES OF X AND Y
+
 ![Screenshot 2025-03-07 093916](https://github.com/user-attachments/assets/5e1480b1-4037-4fff-bf16-dfa29e6941e4)
 
 ##TRAINING SET
+
 ![Screenshot 2025-03-07 091329](https://github.com/user-attachments/assets/ffcf44df-a9d9-4dd2-8fce-9773a0f3aadf)
 
 ##TESTING SET
+
 ![Screenshot 2025-03-07 091355](https://github.com/user-attachments/assets/83e35a5c-ce8e-4a0a-a4ec-6478b4882f66)
 
 
 ##MSE,MAE and RMSE
+
 ![Screenshot 2025-03-07 091418](https://github.com/user-attachments/assets/9916f320-6afe-4640-8966-0a74f7996cd9)
 
 
